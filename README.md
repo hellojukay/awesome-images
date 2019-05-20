@@ -6,5 +6,6 @@
 * [golang](https://hub.docker.com/_/golang) run golang compiler in docker
 * [andyshinn/dnsmasq](https://hub.docker.com/r/andyshinn/dnsmasq/) dnsmasq in docker
 * [passbolt/passbolt](https://hub.docker.com/r/passbolt/passbolt) Passbolt is a free and open source password manager that allows team members to store and share credentials securely.
+* [groovy](https://hub.docker.com/_/groovy) Apache Groovy is a multi-faceted language for the Java platform.
 
 
